@@ -30,6 +30,7 @@ import { SiteAcrediationComponent } from './AboutUs/site-acrediation/site-acredi
 import { NoopAnimationsModule } from '@angular/platform-browser/animations';
 import { GetInvolvedFormComponent } from './Forms/get-involved-form/get-involved-form.component';
 import { RegisterYourSiteFormComponent } from './Forms/register-your-site-form/register-your-site-form.component';
+import { NavbarComponent } from './navbar/navbar.component';
 
 @NgModule({
   declarations: [
@@ -58,7 +59,8 @@ import { RegisterYourSiteFormComponent } from './Forms/register-your-site-form/r
     InitiativesComponent,
     SiteAcrediationComponent,
     GetInvolvedFormComponent,
-    RegisterYourSiteFormComponent
+    RegisterYourSiteFormComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,

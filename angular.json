@@ -31,7 +31,6 @@
               "src/assets/bootstrap-icons/font/bootstrap-icons.css",
               "src/assets/slick-carousel/slick/slick.scss",
               "src/assets/slick-carousel/slick/slick-theme.scss",
-              "src/assets/AddedCss/bootstrap.min.css",
               "src/assets/AddedCss/swiper-bundle.min.css",
               "src/assets/AddedCss/aos.css",
               "src/assets/AddedCss/glightbox.min.css"
@@ -40,7 +39,6 @@
               "src/assets/jquery/dist/jquery.min.js",
               "src/assets/slick-carousel/slick/slick.min.js",
               "src/assets/AddedJs/aos.js",
-              "src/assets/AddedJs/bootstrap.bundle.js",
               "src/assets/AddedJs/glightbox.js",
               "src/assets/AddedJs/glightbox.min.js",
               "src/assets/AddedJs/isotope.pkgd.js",
